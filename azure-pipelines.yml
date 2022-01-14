@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'telemedicineapi'
+  webAppName: 'teledentalload'
   serviceConnection: 'LoadTesting'
   azureSubscriptionId: '6c82bf22-61f7-4b1c-881e-2fd2f664e58e'
   loadTestResource: 'test1_1'
